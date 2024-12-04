@@ -26,4 +26,4 @@ Loyihani ko'rib chiqish uchun quyidagilarni bajaring:
 Agar loyihani rivojlantirishga hissa qo'shmoqchi bo'lsangiz, pull request yuborishingiz yoki issue ochishingiz mumkin.
 
 ## Muallif
-**Baxtiyor Co**
+**Baxtiyor Coder**
